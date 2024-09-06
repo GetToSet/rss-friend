@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "apicache": "^1.6.3",
-    "axios": "^1.7.2",
+    "axios": "^1.7.7",
     "express": "^4.19.2",
     "jsonfeed-to-rss": "^3.0.8",
     "morgan": "^1.10.0"
