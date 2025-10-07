@@ -12,7 +12,7 @@
   "dependencies": {
     "apicache": "^1.6.3",
     "axios": "^1.12.2",
-    "express": "^4.21.2",
+    "express": "^5.1.0",
     "jsonfeed-to-rss": "^3.0.8",
     "morgan": "^1.10.1"
   }
