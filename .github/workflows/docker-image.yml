@@ -33,7 +33,7 @@ jobs:
 
       - name: Build and Push Alpine Dockerfile
         id: docker_build
-        uses: docker/build-push-action@v7.1.0
+        uses: docker/build-push-action@v7.4.0
         with:
           platforms: linux/arm64,linux/amd64
           push: true
